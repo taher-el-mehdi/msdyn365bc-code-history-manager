@@ -1,13 +1,13 @@
 import React, { useEffect, useState } from 'react'
 import { getFileContent, type GitHubConfig, GitHubApiError } from '@api/github'
 import { useApp } from '@context/AppContext'
-import 'prismjs/components/prism-markup'
-import 'prismjs/components/prism-javascript'
-import 'prismjs/components/prism-typescript'
-import 'prismjs/components/prism-json'
-import 'prismjs/components/prism-yaml'
-import 'prismjs/components/prism-markdown'
-import '@utils/prism-al'
+// import 'prismjs/components/prism-markup'
+// import 'prismjs/components/prism-javascript'
+// import 'prismjs/components/prism-typescript'
+// import 'prismjs/components/prism-json'
+// import 'prismjs/components/prism-yaml'
+// import 'prismjs/components/prism-markdown'
+// import '@utils/prism-al'
 
 export const CodeViewer: React.FC = () => {
   const { repo, selectedFile } = useApp()
