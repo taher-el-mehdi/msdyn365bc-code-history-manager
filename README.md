@@ -4,7 +4,7 @@ A lightweight web app for exploring Microsoft Dynamics 365 Business Central sour
 
 This project is possible due to the excellent work of [**Stefan Maron**](https://www.linkedin.com/in/stefan-maron-709928206/), with his repository of [MSDyn365BC.Code.History](https://github.com/StefanMaron/MSDyn365BC.Code.History) which collect the historical source code of Microsoft Dynamics 365 Business Central across versions and localisations. 🙌
 
-### [Demo]()
+### [Demo](https://taher-el-mehdi.github.io/msdyn365bc-code-history-manager/)
 
 ![Demo Screenshot](./assets/imgs/screenshot.png)
 
