@@ -36,7 +36,7 @@ export type AppState = {
 }
 
 const defaultRepo: RepoConfig = {
-  owner: 'MSDyn365BC',
+  owner: 'StefanMaron',
   repo: 'MSDyn365BC.Code.History',
 }
 
